@@ -38,3 +38,5 @@ All devices successfully communicate across different subnets, proving correct i
 - Practical understanding of subnetting
 - Routing between multiple networks
 - Enterprise-level network design basics
+- 
+<img width="328" height="347" alt="Network cisco packet tracker" src="https://github.com/user-attachments/assets/7c7af744-dcdf-4c77-ba2d-e70b0a81025a" />
