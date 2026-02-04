@@ -34,7 +34,7 @@ Connectivity between different subnets was verified using ping commands.
 ##  Result
 All devices successfully communicate across different subnets, proving correct implementation of subnetting and routing.
 
-## 📚 Learning Outcome
+##  Learning Outcome
 - Practical understanding of subnetting
 - Routing between multiple networks
 - Enterprise-level network design basics
